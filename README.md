@@ -18,5 +18,7 @@ Analyze: Extract meaningful insights to inform decision-making.
 Share: Communicate findings through professional data visualizations and reports.
 Act: Propose data-backed recommendations for approval by Cyclistic executives.
 
-Following is the link to the project that I have done on kaggele : kaggle kernels pull misnakj1/cyclistics-bike-share-google-capstone-project
-              kaggle kernels pull misnakj1/cyclistics-bike-share-google-capstone-project
+Following is the link to the project that I have done on kaggele : 
+
+                              kaggle kernels pull misnakj1/cyclistics-bike-share-google-capstone-project
+              
